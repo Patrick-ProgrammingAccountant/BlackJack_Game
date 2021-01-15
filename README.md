@@ -8,4 +8,4 @@ Showcases: Manipulation of a dictionary and the use of the random module.
 
 Expansion ideas: Program in more gambling games and allow the player to option to choose a new game after each game.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Patrick-ProgrammingAccountant/BlackJack_Game/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Patrick-ProgrammingAccountant/BlackJack_Game/HEAD)
